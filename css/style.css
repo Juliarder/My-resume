@@ -1,0 +1,154 @@
+body {
+    background-color: #f5f7fa;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+.mainContainer{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+}
+.allInfo {
+    padding: 100px 90px;
+    color: #000;
+}
+.aboutMe{
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+    margin-bottom: 40px;
+}
+.myProfession {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0 0 20px 0;
+}
+.myName{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 0 0 25px 0;
+}
+.aboutMeDescription {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+}
+.aTitle{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+.olProjects{
+    padding: 0 0 0 18px;
+}
+.liProjects {
+    color: #000;
+}
+.spanProjects{
+    color: #595959;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 5px;
+}
+.bracket{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.linkProjects{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.workTime {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.nameCompany{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+.vacancy{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.Responsibilities{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.educationalDirection{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+aside{
+    background-color: #1E2939;
+    color: #fff;
+    width: 370px;
+    padding-top: 20px;
+}
+.contacts,
+.tech{
+    margin: 50px 0 0 40px;
+}
+.sTitle{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+.cell,.email{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+}
+.contactsLink{
+    text-decoration: none;
+    color: #ACB9CB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.sUl{
+    color: #FB6D3A;
+    padding-left: 17px;
+}
+.sText{
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
